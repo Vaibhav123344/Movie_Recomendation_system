@@ -14,8 +14,11 @@ Fast and Interactive UI with Streamlit.
 Tech Stack
 
 Python (Backend Logic)
+
 Streamlit (Web Interface)
+
 TMDb API (Poster Retrieval)
+
 Pickle (Model and Data Storage)
 
 
